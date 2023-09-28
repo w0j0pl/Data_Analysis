@@ -1,3 +1,3 @@
-# What do I do here?
+# Data_Analysis
 
-In this project I look at the difference between women's and men's salary and between people working remotely, hybrid and in-person. I had to clean some data and make results "fair", but I think that results are very suprising
+In this repo I practice and work on my data analysis skills.
