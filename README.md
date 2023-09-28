@@ -1,3 +1,3 @@
 # What do I do here?
 
-In this project I look at the differnce on an average player score between players under 180cm and the others. I also separated data column into 3 - day, month and a year
+In this project I look at the difference between women's and men's salary and between people working remotely, hybrid and in-person. I had to clean some data and make results "fair", but I think that results are very suprising
